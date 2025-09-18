@@ -5,6 +5,11 @@ This repository contains the OpenCore EFI configuration for the Lenovo ThinkPad 
 ## Download
 You can download the latest EFI from the [releases page](https://github.com/maxpicelli/Lenovo-T14-Gen1-OpenCore-EFI/releases).
 
+### Clone with Git
+```bash
+git clone https://github.com/maxpicelli/Lenovo-T14-Gen1-OpenCore-EFI.git
+```
+
 ## Hardware Specifications
 - CPU: Intel Core i5-10510U (Comet Lake)
 - GPU: Intel UHD Graphics 620/630
